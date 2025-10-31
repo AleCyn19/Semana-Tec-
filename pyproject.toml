@@ -1,0 +1,12 @@
+[project]
+name = "semanatec"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "jupyterlab>=4.4.10",
+    "scikit-learn>=1.7.2",
+    "seaborn>=0.13.2",
+    "ydata-profiling>=4.17.0",
+]
